@@ -20,7 +20,7 @@
 ### Claude Code / Claude Cowork
 
 ```bash
-git clone https://github.com/<your-username>/test-engineer-skill.git
+git clone https://github.com/ultimatevegance/test-engineer-skill.git
 cp -r test-engineer-skill/test-engineer ~/.claude/skills/
 ```
 
@@ -31,7 +31,7 @@ cp -r test-engineer-skill/test-engineer ~/.claude/skills/
 Codex 支持 Agent Skills 开放标准,放入 `.agents/skills` 即可:
 
 ```bash
-git clone https://github.com/<your-username>/test-engineer-skill.git
+git clone https://github.com/ultimatevegance/test-engineer-skill.git
 mkdir -p ~/.agents/skills
 cp -r test-engineer-skill/test-engineer ~/.agents/skills/
 # 重启 Codex 生效
