@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Editors / IDE
+.idea/
+.vscode/
+*.swp
+
+# Node
+node_modules/
+
+# Logs & temp
+*.log
+*.tmp
+
+# Packaged skill archives
+*.skill
+*.zip
